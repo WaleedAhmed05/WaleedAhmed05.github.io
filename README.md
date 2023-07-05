@@ -1,10 +1,10 @@
 ## Welcome to Waleed Ahmed Profile
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run Jekyll to rebuild the pages in your site, from the content in your Markdown files.
+"Why do programmers prefer dark mode? <br>
+Because light attracts bugs! "
 
 ### Site Under Construction...
 
-### Contact
-contact@waleeday.com
+### Contact:
+contact@waleeday.com <br>
+[LinkedIn](https://www.linkedin.com/in/waleed15/)
